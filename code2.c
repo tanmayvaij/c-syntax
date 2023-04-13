@@ -18,4 +18,6 @@ void main () {
     printf("constant float is %f\n", B);
     printf("constant char is %c\n", C);
 
+    printf("%d %d", 5, 6);
+
 }
